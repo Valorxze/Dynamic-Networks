@@ -1,3 +1,7 @@
+# VS Code command palette (ctrl+shift+p)
+# Python: Create Environment
+# Python: Create Terminal
+
 import networkx as nx
 from networkx.algorithms import bipartite
 from matplotlib import pyplot as plt
